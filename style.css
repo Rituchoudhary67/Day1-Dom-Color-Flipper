@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn, .btn2 ,.btn3 {
+    flex-direction: column;
+    justify-content: center; 
+    background-color: black;
+    text-align: center;
+    margin:120px ;
+    margin-top: 20%;
+    padding: 2%;
+    font-size: larger;
+    border-radius: 10px;
+    color: white;
+}
+.btn2 {
+    margin-top: 10%;
+}
